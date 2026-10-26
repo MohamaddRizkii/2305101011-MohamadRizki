@@ -3,11 +3,15 @@
 
 ## Identitas Mahasiswa
 
-| Nama | Mohamad Rizki |
-| NIM | 2305101011 |
-| Kelas | 7B-TIF |
-| Mata Kuliah | Mobile Programming |
-| Tahun Akademik | 2026/2027 |
+Nama: Mohamad Rizki
+
+NIM: 2305101011
+
+Kelas: 7B-TIF
+
+Mata Kuliah: Mobile Programming
+
+Tahun Akademik: 2026/2027
 
 ## Deskripsi
 
